@@ -7,6 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>REACT CI/CD</div>
+        <div>App after setup</div>
+        
+
+        
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
